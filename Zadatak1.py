@@ -268,3 +268,7 @@ if __name__ == "__main__":
     for i in range(len(L1)):
         print(L1[i].val, end = " ")
     print("\n")
+	
+	#s = graph[3]
+	#dijkstra(graph, E, s)
+	#print(x.d)
